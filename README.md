@@ -1,3 +1,4 @@
+![logo](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 # Minicursussen over wetenschap en techniek
 Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagavond minicursussen over wetenschap en techniek georganiseerd. De frequentie en de onderwerpen van deze cursussen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de cursisten en het aanbod aan beschikbare cursusdocenten.
 
@@ -7,6 +8,8 @@ Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagav
 - Inschrijven gebeurt per cursus en de kosten hangen o.a. af van de cursusduur (wordt per cursus vooraf bekend gemaakt)
 - Voor elke cursus geldt een maximumaantal deelnemers dat vooraf bekend wordt gemaakt
 - Bij voldoende belangstelling kunnen sommige cursussen vaker worden gegeven
+
+![science](https://cloud.githubusercontent.com/assets/25673660/22808370/d6e8732e-ef2b-11e6-9119-9c2a05962913.png)
 
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het onderwerp voor meer informatie.
@@ -19,5 +22,5 @@ Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jong
 <br>050 5260721
 <br>www.djog.nl
 
-## Zelf een minicursus organiseren
+## Zelf een minicursus organiseren?
 Wil je zelf een keer een minicursus organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
