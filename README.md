@@ -13,3 +13,11 @@ Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het ond
 
 - 13 + 20 januari 2023: Luchtkwaliteit
 
+## Locatie
+Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jonge Onderzoekers in Groningen:
+<br>Dirk Huizingastraat 13 (9713 GL)
+<br>050 5260721
+<br>www.djog.nl
+
+## Zelf een minicursus organiseren
+Wil je zelf een keer een minicursus organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
