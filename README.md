@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagav
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het onderwerp voor meer informatie.
 
-- **13 + 20 januari 2023:** [Luchtkwaliteit](/Luchtkwaliteit)
+- **13 + 20 januari 2023:** [Luchtkwaliteit](/Luchtkwaliteit/README.md)
 
 ## Aanmelden
 Je kunt je aanmelden voor een minicursus door een mail te sturen naar info@dejongeonderzoekers.nl. Vermeld hierbij je naam, leeftijd en de minicursus waaraan je wilt meedoen. Je ontvangt dan een bevestiging van je deelname. Als er geen plek meer vrij is dan plaatsen we je op de reservelijst.
