@@ -19,7 +19,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het ond
 ## Aanmelden
 Je kunt je aanmelden voor een minicursus door een mail te sturen naar info@dejongeonderzoekers.nl. Vermeld hierbij je naam, leeftijd en de minicursus waaraan je wilt meedoen. Je ontvangt dan een bevestiging van je deelname. Als er geen plek meer vrij is dan plaatsen we je op de reservelijst.
 
-**Let op:** als je je aanmeldt voor een minicursus dan gaan we ervan uit dat je over voldoende motivatie beschikt en in principe elke keer aanwezig bent, tenzij je vanwege een onverwachte gebeurtenis echt niet kunt komen. Maar mocht gedurende de cursus blijken dat je toch niet meer verder wilt dan zullen we je besluit uiteraard respecteren. (Restitutie van het resterende cursusgeld kan in dergelijke gevallen niet worden gegarandeerd.)
+**Let op:** als je je aanmeldt voor een minicursus dan gaan we ervan uit dat je over voldoende motivatie beschikt en in principe elke keer aanwezig bent, tenzij je vanwege een onverwachte gebeurtenis echt niet kunt komen. Maar mocht gedurende de cursus blijken dat je toch niet meer verder wilt, dan zullen we je besluit uiteraard respecteren. (Restitutie van het resterende cursusgeld kan in dergelijke gevallen niet worden gegarandeerd.)
 
 ## Locatie
 Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jonge Onderzoekers in Groningen:
