@@ -11,7 +11,7 @@ Hier vind je het lesmateriaal behorend bij deze cursus, zoals een uitgebreide sa
 
 ## Praktische informatie
 - Cursusdata: **13 + 20 januari 2023**
-- Locatie: De Jonge Onderzoekers, Dirk Huizingastraat 13
+- Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 12
 - Kosten: ? *(volgt later)*
