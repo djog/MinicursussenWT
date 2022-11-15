@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagav
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het onderwerp voor meer informatie.
 
-- 13 + 20 januari 2023: [Luchtkwaliteit](/Luchtkwaliteit)
+- **13 + 20 januari 2023:** [Luchtkwaliteit](/Luchtkwaliteit)
 
 ## Locatie
 Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jonge Onderzoekers in Groningen:
