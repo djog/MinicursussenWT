@@ -24,3 +24,5 @@ Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jong
 
 ## Zelf een minicursus organiseren?
 Wil je zelf een keer een minicursus organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
+
+Wil je mee discussiëren over mogelijke onderwerpen of wil je andere vragen of ideeën delen met de groep? Dat kan via deze discussiepagina: https://github.com/djog/MinicursussenWT/discussions/
