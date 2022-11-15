@@ -1,6 +1,6 @@
 ![logo](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
 # Minicursussen over wetenschap en techniek
-Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagavond minicursussen voor kinderen georganiseerd over wetenschap en techniek. De frequentie en de onderwerpen van deze cursussen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de cursisten en het aanbod aan beschikbare cursusdocenten.
+Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagavond minicursussen voor kinderen georganiseerd over wetenschap en techniek. Het gaat om uitdagende cursussen die de lesstof van school vaak overstijgen of aanvullen, bedoeld voor kinderen die graag meer willen leren over de wereld om hen heen. De frequentie en de onderwerpen van deze cursussen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de cursisten en het aanbod aan beschikbare cursusdocenten.
 
 - De minicursussen worden gegeven op vrijdagavond van 18.15 tot 20 uur (tenzij anders vermeld)
 - Een minicursus bestaat uit 2 tot maximaal 5 cursusavonden en behandelt steeds een specifiek onderwerp of thema
