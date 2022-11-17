@@ -15,4 +15,4 @@ Hier vind je het lesmateriaal behorend bij deze cursus, zoals een uitgebreide sa
 - Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 12
-- Kosten: ? *(volgt later)*
+- Kosten: 4 euro per deelnemer
