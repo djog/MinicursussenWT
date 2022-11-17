@@ -5,7 +5,7 @@ Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagav
 - De minicursussen worden gegeven op vrijdagavond van 18.15 tot 20 uur (tenzij anders vermeld)
 - Een minicursus bestaat uit 2 tot maximaal 5 cursusavonden en behandelt steeds een specifiek onderwerp of thema
 - De doelgroep is in principe kinderen tussen de 8 en de 18 jaar, maar het kan voorkomen dat voor sommige cursussen een andere minimumleeftijd geldt
-- Inschrijven gebeurt per cursus en de kosten hangen in principe af van de cursusduur (wordt per cursus vooraf bekend gemaakt)
+- Inschrijven gebeurt per cursus en de kosten hangen normaal gesproken af van de cursusduur (wordt per cursus vooraf bekend gemaakt)
 - Voor elke cursus geldt een maximumaantal deelnemers dat vooraf bekend wordt gemaakt
 - Bij voldoende belangstelling kunnen sommige cursussen vaker worden gegeven
 
