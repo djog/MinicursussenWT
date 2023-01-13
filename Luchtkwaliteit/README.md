@@ -13,7 +13,7 @@ Informatie over het in elkaar zetten en aansluiten van de fijnstofmeters is te v
 *(Deze informatie wordt later verder aangevuld)*
 
 ## Praktische informatie
-- Cursusdata: **13 + 20 januari 2023** *(o.v.b.)*
+- Cursusdata: **13 + 20 januari 2023**
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
