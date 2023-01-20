@@ -8,9 +8,10 @@ We ademen de hele dag lucht in en uit, maar in deze lucht zitten nogal wat versc
 ## Cursusmateriaal
 De presentatie van het eerste deel van de cursus, o.a. over de verschillende soorten luchtvervuiling en hoe ze ontstaan, is inclusief een samenvatting hier te downloaden: [Deel 1](Deel1.pdf)
 
+De presentatie van het tweede deel, over de effecten van fijnstof op onze gezondheid, is inclusief een samenvatting hier te downloaden: [Deel 2](Deel2.pdf)
+
 Informatie over het in elkaar zetten en aansluiten van de fijnstofmeters is te vinden via de website www.onzelucht.nl
 
-*(Deze informatie wordt later verder aangevuld)*
 
 ## Praktische informatie
 - Cursusdata: **13 + 20 januari 2023**
