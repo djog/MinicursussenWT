@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagav
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het onderwerp voor meer informatie.
 
-- **Voorjaar 2023:** [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
+- **Rond de zomer van 2023:** [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
 
 Eerder gegeven minicursussen:
 - 13 + 20 januari 2023: [Luchtkwaliteit](/Luchtkwaliteit/README.md)
