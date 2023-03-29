@@ -15,7 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **21 april:** *Thema-avond* [Suikers](/Suikers/readme.md)
-- **Rond de zomer van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
+- **Zomer/najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
