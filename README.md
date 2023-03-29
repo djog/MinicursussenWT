@@ -1,36 +1,37 @@
 ![logo](https://cloud.githubusercontent.com/assets/25673660/22806842/50171992-ef24-11e6-89bc-607339c92c05.png)
-# Minicursussen over wetenschap en techniek
-Bij De Jonge Onderzoekers Groningen worden enkele keren per jaar op de vrijdagavond minicursussen voor kinderen georganiseerd over wetenschap en techniek. Het gaat om uitdagende cursussen die de lesstof van school vaak overstijgen of aanvullen, bedoeld voor kinderen die graag meer willen leren over de wereld om hen heen. De frequentie en de onderwerpen van deze cursussen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de cursisten en het aanbod aan beschikbare cursusdocenten.
+# Minicursussen en thema-avonden over wetenschap en techniek
+Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavond minicursussen en thema-avonden voor kinderen georganiseerd over wetenschap en techniek. Het gaat daarbij om uitdagende lessen die de stof van school vaak overstijgen of aanvullen, bedoeld voor kinderen die graag meer willen leren over de wereld om hen heen. De frequentie en de onderwerpen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de deelnemers en het aanbod aan beschikbare docenten. De minicursussen duren twee tot maximaal vijf avonden, de thema-avonden worden gegeven op één avond. Wil je op de hoogte blijven van het aanbod? Meld je dan aan voor onze speciale mailinglist via info@dejongeonderzoekers.nl of houd onze website in de gaten.
 
-- De minicursussen worden gegeven op vrijdagavond van 18.15 tot 20 uur (tenzij anders vermeld)
-- Een minicursus bestaat uit 2 tot maximaal 5 cursusavonden en behandelt steeds een specifiek onderwerp of thema
-- De doelgroep is in principe kinderen tussen de 8 en de 18 jaar, maar het kan voorkomen dat voor sommige cursussen een andere minimumleeftijd geldt
-- Inschrijven gebeurt per cursus en de kosten hangen normaal gesproken af van de cursusduur (wordt per cursus vooraf bekend gemaakt)
-- Voor elke cursus geldt een maximumaantal deelnemers dat vooraf bekend wordt gemaakt
-- Bij voldoende belangstelling kunnen sommige cursussen vaker worden gegeven
+- De minicursussen en thema-avonden worden gegeven op vrijdagavond van 18.15 tot 20 uur (tenzij anders vermeld)
+- Tijdens een minicursus of thema-avond komt steeds één bepaald onderwerp of thema aan de orde
+- De doelgroep is in principe kinderen tussen de 8 en de 18 jaar, maar het kan voorkomen dat in sommige gevallen een andere minimumleeftijd geldt
+- Inschrijven gebeurt per cursus of thema-avond en de kosten zijn in principe 2 euro per keer (tenzij anders vermeld)
+- Voor elke cursus of thema-avond geldt een maximumaantal deelnemers dat vooraf bekend wordt gemaakt
+- Bij voldoende belangstelling kunnen sommige cursussen of thema-avonden vaker worden gegeven
 
 ![science](https://cloud.githubusercontent.com/assets/25673660/22808370/d6e8732e-ef2b-11e6-9119-9c2a05962913.png)
 
 ## Agenda
-Hieronder vind je de (voorlopige) planning van de minicursussen. Klik op het onderwerp voor meer informatie.
+Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **Rond de zomer van 2023:** [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
+- **21 april:** *Thema-avond* [Suikers](/Suikers/readme.md)
+- **Rond de zomer van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
 
-Eerder gegeven minicursussen:
-- 13 + 20 januari 2023: [Luchtkwaliteit](/Luchtkwaliteit/README.md)
+Eerder gegeven minicursussen en thema-avonden:
+- 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
 
 ## Aanmelden
-Je kunt je aanmelden voor een minicursus via ons online [aanmeldformulier (klik)](https://forms.gle/RNTqjQwH7XCsQadw9/). Lukt dit niet of heb je vragen, stuur dan een mail naar info@dejongeonderzoekers.nl. Mocht een cursus vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
+Je kunt je aanmelden via ons online [aanmeldformulier (klik)](https://forms.gle/RNTqjQwH7XCsQadw9/) of door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
 
-**Let op:** als je je aanmeldt voor een minicursus dan gaan we ervan uit dat je over voldoende motivatie beschikt en in principe elke keer aanwezig bent, tenzij je vanwege een onverwachte gebeurtenis echt niet kunt komen. Maar mocht gedurende de cursus blijken dat je toch niet meer verder wilt, dan zullen we je besluit uiteraard respecteren. (Restitutie van het resterende cursusgeld kan in dergelijke gevallen niet worden gegarandeerd.)
+**Let op:** als je je aanmeldt voor een minicursus dan gaan we ervan uit dat je in principe elke keer aanwezig bent, tenzij je vanwege een onverwachte gebeurtenis echt niet kunt komen. Maar mocht gedurende de cursus blijken dat je toch niet meer verder wilt, dan zullen we je besluit uiteraard respecteren. (Restitutie van het resterende cursusgeld kan in dergelijke gevallen niet worden gegarandeerd.)
 
 ## Locatie
-Tenzij anders aangegeven worden de minicursussen gegeven in het pand van De Jonge Onderzoekers in Groningen:
+Tenzij anders aangegeven worden de minicursussen en thema-avonden gegeven in het pand van De Jonge Onderzoekers in Groningen:
 <br>Dirk Huizingastraat 13 (9713 GL)
 <br>050 5260721
 <br>www.djog.nl
 
-## Zelf een minicursus organiseren?
-Wil je zelf een keer een minicursus organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
+## Zelf een minicursus of thema-avond organiseren?
+Wil je zelf een keer een minicursus of thema-avond organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
 
 Wil je mee discussiëren over mogelijke onderwerpen of wil je andere vragen of ideeën delen met de groep? Dat kan via deze discussiepagina: https://github.com/djog/MinicursussenWT/discussions/
