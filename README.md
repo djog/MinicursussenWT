@@ -21,7 +21,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
 
 ## Aanmelden
-Je kunt je aanmelden via ons online [aanmeldformulier (klik)](https://forms.gle/RNTqjQwH7XCsQadw9/) of door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
+Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
 
 **Let op:** als je je aanmeldt voor een minicursus dan gaan we ervan uit dat je in principe elke keer aanwezig bent, tenzij je vanwege een onverwachte gebeurtenis echt niet kunt komen. Maar mocht gedurende de cursus blijken dat je toch niet meer verder wilt, dan zullen we je besluit uiteraard respecteren. (Restitutie van het resterende cursusgeld kan in dergelijke gevallen niet worden gegarandeerd.)
 
