@@ -14,7 +14,8 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **21 april:** *Thema-avond* [Suikers](/Suikers/readme.md)
+- **21 april 2023:** *Thema-avond* [Suikers](/Suikers/readme.md)
+- **2 + 9 juni 2023:** *Minicursus* [De reis van de genen: van bevruchting tot individu](/Genen/readme.md) 
 - **Zomer/najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
 
 Eerder gegeven minicursussen en thema-avonden:
