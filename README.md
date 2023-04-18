@@ -16,7 +16,8 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **21 april 2023:** *Thema-avond* [Suikers](/Suikers/readme.md)
 - **2 + 9 juni 2023:** *Minicursus* [De reis van de genen: van eicel tot nageslacht](/Genen/readme.md) 
-- **Zomer/najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk per mail)
+- **6 + 13 oktober 2023** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk)
+- **Najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
