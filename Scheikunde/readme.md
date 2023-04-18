@@ -10,7 +10,7 @@ Hier vind je het lesmateriaal behorend bij deze cursus, zoals een uitgebreide sa
 <br>*(volgt later)*
 
 ## Praktische informatie
-- Cursusdata: **Zomer/najaar van 2023** *(de exacte data volgen later)*
+- Cursusdata: **Najaar van 2023** *(de exacte data volgen later)*
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
