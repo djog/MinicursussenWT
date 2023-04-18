@@ -1,6 +1,6 @@
 # Onderzoek aan ziektes bij kinderen
 
-![ziektes]()
+![ziektes](ziektes.jpg)
 
 ## Korte beschrijving van de cursus
 Deze minicursus staat in het teken van onderzoek dat (kinder)artsen en laboranten in het UMCG doen aan verschillende ziektes die voorkomen bij kinderen. De cursus zal daarom worden gegeven in het UMCG/Beatrix Kinderziekenhuis.
