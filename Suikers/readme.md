@@ -6,7 +6,7 @@
 Iedereen weet dat suiker zoet smaakt en dat we dat meestal lekker vinden. Maar wat zijn suikers eigenlijk? Waar zitten ze in? En kloppen de verhalen erover wel, zoals dat ze ongezond zijn en dat je er druk van wordt? Je leert tijdens deze thema-avond meer over suikers en hun rol in je lichaam, en ook ga je zelf een experiment doen met melk en lactose (melksuiker)
 
 ## Lesmateriaal
-Na afloop van de thema-avond kan hier de gebruikte presentatie en eventueel ander lesmateriaal gedownload worden.
+De gebruikte presentatie, inclusief een samenvatting, is [hier](suikers.pdf) te downloaden.
 
 ## Praktische informatie
 - Datum: **21 april 2023**
