@@ -20,7 +20,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
-- **21 april 2023:** *Thema-avond* [Suikers](/Suikers/readme.md)
+- 21 april 2023: *Thema-avond* [Suikers](/Suikers/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
