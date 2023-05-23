@@ -3,18 +3,12 @@
 ![ziektes](ziektes.jpg)
 
 ## Korte beschrijving van de cursus
-Deze minicursus staat in het teken van onderzoek dat (kinder)artsen en laboranten in het UMCG doen aan verschillende ziektes die voorkomen bij kinderen. De cursus zal daarom worden gegeven in het UMCG/Beatrix Kinderziekenhuis.
-
-*Nadere informatie over de inhoud van deze minicursus volgt zo spoedig mogelijk*
-
-## Cursusmateriaal
-Hier vind je het lesmateriaal behorend bij deze cursus, zoals een uitgebreide samenvatting van de lesstof. 
-*(volgt later)*
+Vind jij het interessant te weten hoe het menselijk lichaam werkt? En hoe het kan dat sommige kinderen ziek worden? Of hoe dokters nieuwe behandelingen voor ziektes bij kinderen ontdekken? Doe dan mee aan deze bijzondere minicursus waarbij we op bezoek gaan in het Beatrix Kinderziekenhuis (BKZ) in het UMCG. Daar vertellen een dokter en een onderzoeker je hier alles over. Daarnaast krijg je een kijkje achter de schermen in het laboratorium, waar je zelf ook mag gaan experimenteren. En je mag meedenken over hoe het onderzoek naar ziektes bij kinderen in het BKZ nog beter kan worden!
 
 ## Praktische informatie
 - Cursusdata: **6 + 13 oktober 2023**
 - Locatie: UMCG/Beatrix Kinderziekenhuis
-- Tijd: 18 tot 20 uur *(voorlopige richttijd)*
+- Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
 - Kosten: 4 euro per deelnemer
