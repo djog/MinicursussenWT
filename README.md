@@ -15,7 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **2 + 9 juni 2023:** *Minicursus* [De reis van de genen: van eicel tot nageslacht](/Genen/readme.md) 
-- **6 + 13 oktober 2023** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk)
+- **6 + 13 oktober 2023** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md)
 - **Najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk)
 
 Eerder gegeven minicursussen en thema-avonden:
