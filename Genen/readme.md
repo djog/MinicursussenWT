@@ -8,7 +8,7 @@ We zijn allemaal ooit begonnen als eicel. Na een geslaagde bevruchting groeiden 
 ## Cursusmateriaal
 Hier kan je de gebruikte presentaties met een uitgebreide samenvatting downloaden.
 
-Klik [hier](Deel1.pdf) voor Deel 1.
+Klik [hier](Deel1.pdf) voor Deel 1.<br>
 Klik [hier](Deel2.pdf) voor Deel 2.
 
 ## Praktische informatie
