@@ -14,8 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
- - **6 + 13 oktober 2023** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md)
-- **Najaar van 2023:** *Minicursus* [Basiscursus scheikunde](/Scheikunde/readme.md) (nadere info volgt, vooraanmelden is al wel mogelijk)
+- **6 + 13 oktober 2023** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023: *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
