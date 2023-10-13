@@ -7,7 +7,7 @@ Vind jij het interessant te weten hoe het menselijk lichaam werkt? En hoe het ka
 
 ## Praktische informatie
 - Cursusdata: **6 + 13 oktober 2023**
-  <br>*Deze cursus is vol! We proberen deze cursus vaker te organiseren, dus laat het ons weten als je belangstelling hebt om de volgende keer mee te doen*</br>
+  <br>*NB: We proberen deze cursus vaker te organiseren, dus laat het ons weten als je belangstelling hebt om de volgende keer mee te doen*</br>
 - Locatie: UMCG/Beatrix Kinderziekenhuis
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
