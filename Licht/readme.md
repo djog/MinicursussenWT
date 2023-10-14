@@ -3,7 +3,7 @@
 ![licht](licht.jpg)
 
 ## Korte beschrijving van de thema-avond
-We vinden het vaak heel gewoon, maar licht is een bijzonder verschijnsel. Zelfs wetenschappers die er onderzoek aan doen, zitten nog met veel vragen. Maar wat weten we al wel over licht? Hoe ontstaan kleuren eigenlijk, en hoe kan je die zien? Tijdens deze thema-avond leer je hier van alles over en gaan we verschillende experimenten doen.
+We vinden het vaak heel gewoon, maar toch is licht een bijzonder verschijnsel. Zelfs wetenschappers die er onderzoek aan doen, zitten nog met veel vragen. Maar wat weten we al wel over licht? Hoe ontstaan kleuren eigenlijk, en hoe kan je die zien? Tijdens deze thema-avond leer je hier van alles over en gaan we verschillende experimenten doen.
 
 ## Lesmateriaal
 De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downloaden.
