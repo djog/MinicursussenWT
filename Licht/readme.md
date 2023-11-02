@@ -9,7 +9,7 @@ We staan er meestal niet zo bij stil, maar licht is een heel bijzonder verschijn
 De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downloaden.
 
 ## Praktische informatie
-- Datum: **17 november 2023**
+- Datum: **17 november 2023** *(Deze thema-avond is inmiddels vol!)*
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
