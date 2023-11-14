@@ -9,7 +9,7 @@ Vind jij het interessant te weten hoe het menselijk lichaam werkt? En hoe het ka
 - Cursusdata: **15 + 22 maart 2024**
 - Locatie: UMCG/Beatrix Kinderziekenhuis
 - Tijd: 18 tot 20 uur
-- Minimumleeftijd: 8 jaar
+- Minimumleeftijd: 9 jaar
 - Maximumaantal deelnemers: 10
 - Kosten: 4 euro per deelnemer
 
