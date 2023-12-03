@@ -9,7 +9,7 @@ Geuren spelen een belangrijke rol in ons leven. Als je iets ruikt dat je heel le
 De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downloaden.
 
 ## Praktische informatie
-- Datum: ?
+- Datum: **12 januari 2024**
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
