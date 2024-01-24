@@ -14,6 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
+- **1 maart 2024** *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md) 
 - **15 + 22 maart 2024** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md) *(Vol!)*
 
 Eerder gegeven minicursussen en thema-avonden:
