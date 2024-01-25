@@ -3,7 +3,7 @@
 ![bloedsomloop](bloedsomloop.jpg)
 
 ## Korte beschrijving van de thema-avond
-Ons hart pompt continu bloed door het lichaam. Hierdoor kan zuurstof overal terechtkomen. Waarom is dat nodig, waar bestaat bloed eigenlijk uit en hoe werkt je hart precies? Voor de antwoorden hierop gaan we onder andere een echt varkenshart bekijken en daarnaast doe je enkele metingen aan je eigen hartslag. Als je wilt kan je met een speciale computersensor zelfs een hartfilmpje (een ECG) van jouw kloppende hart maken.
+Ons hart pompt continu bloed door het lichaam. Hierdoor kan zuurstof in alle organen terechtkomen. Waarom is dat nodig, waar bestaat bloed eigenlijk uit en hoe werkt je hart precies? Voor de antwoorden hierop gaan we onder andere een echt varkenshart bekijken en daarnaast doe je enkele metingen aan je eigen hartslag. Als je wilt kan je met een speciale computersensor zelfs een hartfilmpje (een ECG) van jouw kloppende hart maken.
 
 ## Lesmateriaal
 De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downloaden.
