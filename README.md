@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **1 maart 2024** *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md) 
 - **15 + 22 maart 2024** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md) *(Vol!)*
+- **5 + 12 + 19 april** *Minicursus* [Animaties](/Animaties/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
