@@ -13,4 +13,4 @@ Animaties en special effects zijn tegenwoordig niet meer weg te denken bij films
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 10 jaar
 - Maximumaantal deelnemers: 8
-- Kosten: 6 euro per deelnemer
+- Kosten: 6 euro per deelnemer, *exclusief* de kosten voor de eventuele aanschaf van de gebruikte app(s) (ongeveer 7 á 8 euro per app)
