@@ -13,8 +13,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
- 
-- **15 + 22 maart 2024** *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md) *(Vol!)*
+
 - **5 + 12 + 19 april** *Minicursus* [Animaties](/Animaties/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
@@ -25,6 +24,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 17 november 2023 *Thema-avond* [Licht en kleuren](/Licht/readme.md)
 - 12 januari 2024 *Thema-avond* [Geur en reuk](/Geur/readme.md)
 - 1 maart 2024 *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md)
+- 15 + 22 maart 2024 *Minicursus* [Onderzoek aan ziektes bij kinderen](/Ziektes/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
