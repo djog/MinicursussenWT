@@ -41,5 +41,3 @@ Tenzij anders aangegeven worden de minicursussen en thema-avonden gegeven in het
 
 ## Zelf een minicursus of thema-avond organiseren?
 Wil je zelf een keer een minicursus of thema-avond organiseren? Dat kan! Neem contact met ons op voor meer informatie: info@dejongeonderzoekers.nl
-
-Wil je mee discussiëren over mogelijke onderwerpen of wil je andere vragen of ideeën delen met de groep? Dat kan via deze discussiepagina: https://github.com/djog/MinicursussenWT/discussions/
