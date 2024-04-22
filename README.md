@@ -15,6 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **24 mei 2024** *Thema-avond* [Waterkwaliteit](/Waterkwaliteit/readme.md)
+- **14 juni 2024** *Thema-avond* [Ontwikkeling van geneesmiddelen, hoe gaat dat eigenlijk?](/Geneesmiddelen/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
