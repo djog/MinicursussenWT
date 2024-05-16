@@ -16,7 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **24 mei 2024** *Thema-avond* [Waterkwaliteit](/Waterkwaliteit/readme.md)
 - **14 juni 2024** *Thema-avond* [Ontwikkeling van geneesmiddelen, hoe gaat dat eigenlijk?](/Geneesmiddelen/readme.md)
-- Onder voorbehoud: **28 juni 2024** *Thema-avond* 'De hersenen' (*Nadere info volgt z.s.m.*)
+- Onder voorbehoud: **28 juni 2024** *Thema-avond* 'De hersenen' *(Nadere info volgt z.s.m.)*
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
