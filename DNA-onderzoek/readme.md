@@ -9,7 +9,7 @@ Onze erfelijke eigenschappen liggen opgeslagen in ons DNA in de vorm van een soo
 Hier kan je na afloop de gebruikte presentaties met een uitgebreide samenvatting downloaden.
 
 ## Praktische informatie
-- Cursusdata: **Najaar 2024 (exacte data volgen z.s.m.)**
+- Cursusdata: **Najaar 2024** *(Exacte data volgen z.s.m.)*
 - Locatie: *(Volgt z.s.m.)*
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
