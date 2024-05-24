@@ -12,7 +12,7 @@ Zoekkaart waterdiertjes: [download](WaterdiertjesDeterminatiekaart.pdf)
 
 Achtergrondinfo waterdiertjes: [download](AchtergrondinfoWaterdiertjes.pdf)
 
-Meer informatie en een mogelijkheid om zelf je resultaten te delen is te vinden op de website www.waterdiertjes.nl
+Meer informatie en een mogelijkheid om zelf je meetresultaten te delen is te vinden op de website www.waterdiertjes.nl
 
 ## Praktische informatie
 - Datum: **24 mei 2024**
