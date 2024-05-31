@@ -15,7 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **14 juni 2024** *Thema-avond* [Ontwikkeling van geneesmiddelen, hoe gaat dat eigenlijk?](/Geneesmiddelen/readme.md)
-- **28 juni 2024** *Thema-avond* 'De hersenen' *(Nadere info volgt z.s.m.)*
+- **28 juni 2024** *Thema-avond* [De hersenen](/Hersenen/readme.md)
 - **Najaar 2024** *Minicursus* [DNA-onderzoek](/DNA-onderzoek/readme.md) *(Nadere info volgt z.s.m.)*
 
 Eerder gegeven minicursussen en thema-avonden:
