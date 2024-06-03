@@ -9,7 +9,7 @@ Ben jij ook zo benieuwd wat er gebeurt in je brein? In deze les duiken we er - l
 
 ## Praktische informatie
 - Datum: **28 juni 2024**
-- Locatie, nog onder voorbehoud: Linnaeusborg, Nijenborgh 7, 9747 AG Groningen
+- Locatie: Linnaeusborg, Nijenborgh 7, 9747 AG Groningen
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
