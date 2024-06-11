@@ -9,8 +9,8 @@ Onze erfelijke eigenschappen liggen opgeslagen in ons DNA. DNA bestaat uit een s
 Hier kan je na afloop de gebruikte presentaties met een uitgebreide samenvatting downloaden.
 
 ## Praktische informatie
-- Cursusdata: **Najaar 2024** *(Exacte data volgen z.s.m.)*
-- Locatie: *(Volgt z.s.m.)*
+- Cursusdata: **6 + 13 september 2024**
+- Locatie: *(Volgt later)*
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
