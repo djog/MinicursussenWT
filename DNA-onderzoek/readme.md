@@ -10,7 +10,7 @@ Hier kan je na afloop de gebruikte presentaties met een uitgebreide samenvatting
 
 ## Praktische informatie
 - Cursusdata: **6 + 13 september 2024**
-- Locatie: *(Nog nader te bepalen)*
+- Locatie: *Nog nader te bepalen*
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
