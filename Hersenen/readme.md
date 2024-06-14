@@ -12,5 +12,5 @@ Ben jij ook zo benieuwd wat er gebeurt in je brein? In deze les duiken we er - l
 - Locatie: Linnaeusborg, Nijenborgh 7, 9747 AG Groningen
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
-- Maximumaantal deelnemers: 10
+- Maximumaantal deelnemers: 12
 - Kosten: 2 euro per deelnemer
