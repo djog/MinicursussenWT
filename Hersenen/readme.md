@@ -8,7 +8,7 @@ Ben jij ook zo benieuwd wat er gebeurt in je brein? In deze les duiken we er - l
 *Deze thema-avond wordt gegeven door gastdocent Cato Drion van de Rijksuniversiteit Groningen.*
 
 ## Praktische informatie
-- Datum: **28 juni 2024** *(Vol!)*
+- Datum: **28 juni 2024**
 - Locatie: Linnaeusborg, Nijenborgh 7, 9747 AG Groningen
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
