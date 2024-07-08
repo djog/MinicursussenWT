@@ -13,5 +13,5 @@ Hier kan je na afloop de gebruikte presentaties met een uitgebreide samenvatting
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
-- Maximumaantal deelnemers: 10
+- Maximumaantal deelnemers: 12
 - Kosten: 4 euro per deelnemer
