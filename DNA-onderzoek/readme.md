@@ -10,7 +10,7 @@ Hier kan je na afloop de gebruikte presentaties met een uitgebreide samenvatting
 
 ## Praktische informatie
 - Cursusdata: **13 + 20 september 2024**
-- Locatie: *Nader te bepalen*
+- Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
