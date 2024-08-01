@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **13 + 20 september 2024** *Minicursus* [DNA-onderzoek](/DNA-onderzoek/readme.md)
 - **4 + 18 oktober 2024** *Minicursus* 'Planten' *(nadere info volgt)*
+- **22 november 2024** *Thema-avond* 'Forensisch onderzoek' *(nadere info volgt)*
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
