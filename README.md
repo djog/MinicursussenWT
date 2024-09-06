@@ -15,7 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **13 + 20 september 2024** *Minicursus* [DNA-onderzoek](/DNA-onderzoek/readme.md)
-- **4 + 18 oktober 2024** *Minicursus* 'Planten' *(nadere info volgt)*
+- **4 + 18 oktober 2024** *Minicursus* [Planten onder de loep!](/Planten/readme.md)
 - **22 november 2024** *Thema-avond* 'Forensisch onderzoek' *(nadere info volgt)*
 
 Eerder gegeven minicursussen en thema-avonden:
