@@ -14,7 +14,6 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **13 + 20 september 2024** *Minicursus* [DNA-onderzoek](/DNA-onderzoek/readme.md)
 - **4 + 18 oktober 2024** *Minicursus* [Planten onder de loep!](/Planten/readme.md)
 - **22 november 2024** *Thema-avond* 'Forensisch onderzoek' *(nadere info volgt)*
 
@@ -31,6 +30,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 24 mei 2024 *Thema-avond* [Waterkwaliteit](/Waterkwaliteit/readme.md)
 - 14 juni 2024 *Thema-avond* [Ontwikkeling van geneesmiddelen, hoe gaat dat eigenlijk?](/Geneesmiddelen/readme.md)
 - 28 juni 2024 *Thema-avond* [De hersenen](/Hersenen/readme.md)
+- 13 + 20 september 2024 *Minicursus* [DNA-onderzoek](/DNA-onderzoek/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
