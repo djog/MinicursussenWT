@@ -2,7 +2,7 @@
 # Minicursussen en thema-avonden over wetenschap en techniek
 Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavond minicursussen en thema-avonden voor kinderen georganiseerd over wetenschap en techniek. Het gaat daarbij om uitdagende lessen die de stof van school vaak overstijgen of aanvullen, bedoeld voor kinderen die graag meer willen leren over de wereld om hen heen. De frequentie en de onderwerpen kunnen variëren en zijn mede afhankelijk van de vraag vanuit de deelnemers en het aanbod aan beschikbare docenten. De minicursussen duren twee tot maximaal vijf avonden, de thema-avonden worden gegeven op één avond. Wil je op de hoogte blijven van het aanbod? Meld je dan aan voor onze speciale mailinglist via info@dejongeonderzoekers.nl of houd onze website in de gaten.
 
-- De minicursussen en thema-avonden worden gegeven op vrijdagavond van 18.15 tot 20 uur (tenzij anders vermeld)
+- De minicursussen en thema-avonden worden gegeven op vrijdagavond van 18 tot 20 uur (tenzij anders vermeld)
 - Tijdens een minicursus of thema-avond komt steeds één bepaald onderwerp of thema aan de orde
 - De doelgroep is in principe kinderen tussen de 8 en de 18 jaar, maar het kan voorkomen dat in sommige gevallen een andere minimumleeftijd geldt
 - Inschrijven gebeurt per cursus of thema-avond en de kosten zijn in principe 2 euro per keer (tenzij anders vermeld)
