@@ -8,7 +8,7 @@ Word jij een junior detective? Wil je de geheimen van echte forensische onderzoe
 *Deze thema-avond wordt gegeven door Prathima Misrielal en Sem Hummelink, werkzaam bij de forensische opsporing van de politie*
 
 ## Praktische informatie
-- Datum: **22 november 2024**
+- Datum: **22 november 2024** *(Vol!)*
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
