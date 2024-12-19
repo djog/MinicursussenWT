@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **17 januari 2025** *Thema-avond* [Licht en kleuren](/Licht/readme.md)
 - **28 februari 2025** *Thema-avond* Archeobotanie *(Nadere info volgt)*
+- **21 maart 2025** *Thema-avond* [Bloed en bloedtransfusie](/Bloed/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
