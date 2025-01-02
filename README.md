@@ -5,7 +5,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 - De minicursussen en thema-avonden worden gegeven op vrijdagavond van 18 tot 20 uur (tenzij anders vermeld)
 - Tijdens een minicursus of thema-avond komt steeds één bepaald onderwerp of thema aan de orde
 - De doelgroep is in principe kinderen tussen de 8 en de 18 jaar, maar het kan voorkomen dat in sommige gevallen een andere minimumleeftijd geldt
-- Inschrijven gebeurt per cursus of thema-avond en de kosten zijn in principe 2 euro per keer (tenzij anders vermeld)
+- Inschrijven gebeurt per cursus of thema-avond en de kosten zijn in principe 2,50 euro per keer (tenzij anders vermeld)
 - Voor elke cursus of thema-avond geldt een maximumaantal deelnemers dat vooraf bekend wordt gemaakt
 - Bij voldoende belangstelling kunnen sommige cursussen of thema-avonden vaker worden gegeven
 
