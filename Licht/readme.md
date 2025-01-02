@@ -14,4 +14,4 @@ De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downl
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 12
-- Kosten: 2 euro per deelnemer
+- Kosten: 2,50 euro per deelnemer
