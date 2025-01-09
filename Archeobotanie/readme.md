@@ -1,6 +1,6 @@
 # Archeobotanie
 
-![archeobotanie](archeobotanie.jpg)
+![archeobotanie](archeobotanie.png)
 
 ## Korte beschrijving van de thema-avond
 Archeologen proberen door materialen en voorwerpen uit het verleden te onderzoeken zo goed mogelijk te achterhalen hoe mensen vroeger leefden. Ook oude plantenresten die bij opgravingen gevonden worden kunnen daarbij gebruikt worden. Zo kunnen onverteerde zaden en andere voedselresten die achter zijn gebleven in middeleeuwse beerputten (een soort ouderwetse WC's) helpen om te ontdekken wat men in die tijd zoal at. Was dit echt zo anders dan nu? Door met een microscoop op zoek te gaan naar plantaardige resten in oude poep uit een Groningse beerput (wees gerust: het stinkt niet meer), kan je zelf aan de slag gaan om dit te ontdekken.
