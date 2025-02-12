@@ -8,7 +8,7 @@ Archeologen proberen door materialen en voorwerpen uit het verleden te onderzoek
 *Deze thema-avond wordt gegeven door Liam van den Bosch, Sanne Smit, Mila Zandstra en Daphne van der Velde, studenten Archeobotanie aan de Rijksuniversiteit Groningen*
 
 ## Praktische informatie
-- Datum: **28 februari 2025**
+- Datum: **28 februari 2025** *(Vol!)*
 - Locatie: Archeobotanisch lab, Broerstraat 9
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
