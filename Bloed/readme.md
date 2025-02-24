@@ -12,5 +12,5 @@ Door ons lichaam stroomt in totaal zo’n 5 liter bloed. Meestal merk je daar ni
 - Locatie: UMCG
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
-- Maximumaantal deelnemers: 12
+- Maximumaantal deelnemers: 10
 - Kosten: 2,50 euro per deelnemer
