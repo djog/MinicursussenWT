@@ -12,5 +12,5 @@ Overal om ons heen is geluid. Zelfs op de stilste plekjes kan je altijd nog wel 
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
-- Maximumaantal deelnemers: 12
+- Maximumaantal deelnemers: 10
 - Kosten: 2,50 euro per deelnemer
