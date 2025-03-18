@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **21 maart 2025** *Thema-avond* [Bloed en bloedtransfusie](/Bloed/readme.md) *(Vol!)*
 - **4 april 2025** *Thema-avond* [Geluid en trillingen](/Geluid/readme.md) *(Vol!)*
+- **16 mei 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md)
 - **13 + 20 juni 2025** *Minicursus* Water *(Nadere info volgt)*
 
 Eerder gegeven minicursussen en thema-avonden:
