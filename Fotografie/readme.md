@@ -1,6 +1,6 @@
 # Fotografische technieken
 
-![fotografie](fotografie.png)
+![fotografie](fotografie.jpg)
 
 ## Korte beschrijving van de thema-avond
 Tegenwoordig maken we foto's met onze mobiel, maar voordat we digitale camera's hadden ging dit net even anders. Om een gemaakte foto terug te kunnen zien, moest deze namelijk eerst ontwikkeld en afgedrukt worden. Dit gebeurde in een donkere kamer. Met speciaal fotografisch papier en chemicaliën, kon het beeld langzaam zichtbaar worden gemaakt. Tijdens deze thema-avond ga je de 'magie' van dit proces zelf ontdekken door in een echte donkere kamer (doka) aan de slag te gaan met zogeheten fotogrammen. Ook leer je meer over fotografische principes en hoe een gaatjescamera werkt.
