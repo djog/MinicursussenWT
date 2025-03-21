@@ -8,7 +8,7 @@ Door ons lichaam stroomt in totaal zo’n 5 liter bloed. Meestal merk je daar ni
 *Deze thema-avond wordt gegeven door Karina Meijer (hematoloog) en Michaël Lukens (klinisch chemicus) van het UMCG*
 
 ## Praktische informatie
-- Datum: **21 maart 2025** *(Vol!)*
+- Datum: **21 maart 2025**
 - Locatie: UMCG
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
