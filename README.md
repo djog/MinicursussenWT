@@ -14,7 +14,6 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **21 maart 2025** *Thema-avond* [Bloed en bloedtransfusie](/Bloed/readme.md) *(Vol!)*
 - **4 april 2025** *Thema-avond* [Geluid en trillingen](/Geluid/readme.md) *(Vol!)*
 - **16 mei 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md)
 - **13 + 20 juni 2025** *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md)
@@ -36,6 +35,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 4 + 18 oktober 2024 *Minicursus* [Planten onder de loep!](/Planten/readme.md)
 - 22 november 2024 *Thema-avond* [Forensisch onderzoek](/ForensischOnderzoek/readme.md)
 - 28 februari 2025 *Thema-avond* [Archeobotanie](/Archeobotanie/readme.md)
+- 21 maart 2025 *Thema-avond* [Bloed en bloedtransfusie](/Bloed/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
