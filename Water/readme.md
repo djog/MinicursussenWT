@@ -8,7 +8,7 @@ Zo’n twee derde van de aarde is bedekt met water. Je zou zeggen dat er dus mee
 *Een deel van deze minicursus wordt gegeven door Winnie Leenes, milieuwetenschapper bij de Rijksuniversiteit Groningen*
 
 ## Praktische informatie
-- Cursusdata: **13 + 20 juni 2025**
+- Cursusdata: **5 + 12 september 2025**
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
