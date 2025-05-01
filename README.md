@@ -16,7 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **9 mei 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md) *(Vol!)*
 - **23 mei 2025** *Thema-avond* [Geluid en trillingen](/Geluid/readme.md) *(Vol!)*
-- **13 + 20 juni 2025** *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md)
+- **5 + 12 september 2025** *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
