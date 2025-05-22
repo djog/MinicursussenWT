@@ -14,9 +14,9 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **9 mei 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md) *(Vol!)*
 - **23 mei 2025** *Thema-avond* [Geluid en trillingen](/Geluid/readme.md) *(Vol!)*
 - **5 + 12 september 2025** *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md)
+- **26 september 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md) *(Vol!)*
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
