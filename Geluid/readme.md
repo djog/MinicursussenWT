@@ -8,7 +8,7 @@ Overal om ons heen is geluid. Zelfs op de stilste plekjes kan je altijd nog wel 
 *Deze thema-avond wordt gegeven door Ynze van der Spek, docent natuurkunde aan het Parcival College*
 
 ## Praktische informatie
-- Datum: **23 mei 2025** *(Vol!)*
+- Datum: **23 mei 2025**
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
