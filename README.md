@@ -35,7 +35,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 22 november 2024 *Thema-avond* [Forensisch onderzoek](/ForensischOnderzoek/readme.md)
 - 28 februari 2025 *Thema-avond* [Archeobotanie](/Archeobotanie/readme.md)
 - 21 maart 2025 *Thema-avond* [Bloed en bloedtransfusie](/Bloed/readme.md)
-- 23 mei 2025 *Thema-avond* [Geluid en trillingen](/Geluid/readme.md) *(Vol!)*
+- 23 mei 2025 *Thema-avond* [Geluid en trillingen](/Geluid/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
