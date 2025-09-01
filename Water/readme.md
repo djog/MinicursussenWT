@@ -12,5 +12,5 @@ Zo’n twee derde van de aarde is bedekt met water. Je zou zeggen dat er dus mee
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur
 - Minimumleeftijd: 8 jaar
-- Maximumaantal deelnemers: 12
+- Maximumaantal deelnemers: 10
 - Kosten: 5 euro per deelnemer
