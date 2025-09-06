@@ -16,7 +16,8 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **5 + 12 september 2025** *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md) *(Vol!)*
 - **26 september 2025** *Thema-avond* [Fotografische technieken](/Fotografie/readme.md) *(Vol!)*
-- **10 oktober 2025** *Thema-avond* De bruinviszaak *(nadere info volgt)*
+- **10 oktober 2025** *Thema-avond* [De bruinviszaak](/Bruinvis/readme.md)
+- **14 november 2025** *Thema-avond* [Licht en kleuren](/Licht/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
