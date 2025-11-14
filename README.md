@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **14 november 2025** *Thema-avond* [Licht en kleuren](/Licht/readme.md)
+- **9 januari 2026** *Thema-avond* Geografische informatiesystemen *(o.v.b., nadere info volgt)*
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
@@ -38,6 +38,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 5 + 12 september 2025 *Minicursus* [Water: van molecuul tot milieu](/Water/readme.md)
 - 26 september 2025 *Thema-avond* [Fotografische technieken](/Fotografie/readme.md)
 - 10 oktober 2025 *Thema-avond* [De bruinviszaak](/Bruinviszaak/readme.md)
+- 14 november 2025 *Thema-avond* [Licht en kleuren](/Licht/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
