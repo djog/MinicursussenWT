@@ -6,7 +6,7 @@
 We staan er meestal niet zo bij stil, maar licht is een heel bijzonder verschijnsel. Zelfs wetenschappers die er onderzoek aan doen, zitten nog met veel vragen. Maar wat weten we al wel over licht? Hoe ontstaan kleuren eigenlijk, en hoe kan je die zien? Tijdens deze thema-avond leer je hier van alles over en gaan we verschillende experimenten doen.
 
 ## Lesmateriaal
-De gebruikte presentatie, inclusief een samenvatting, is na afloop hier te downloaden.
+De gebruikte presentatie, inclusief een samenvatting, is [hier](lichtenkleuren.pdf) *(klik)* te downloaden.
 
 ## Praktische informatie
 - Datum: **14 november 2025**
