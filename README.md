@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **9 januari 2026** *Thema-avond* [Geografische informatiesystemen](/GIS/readme.md)
+- **9 januari 2026** *Thema-avond* [Kaarten en geografische informatiesystemen](/GIS/readme.md)
 - **13 februari 2026** *Thema-avond* [Voeding en gezondheid](/Voeding/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
