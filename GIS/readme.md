@@ -8,7 +8,7 @@ Heb je altijd al je eigen kaarten willen maken? Dat gaan we doen! Welkom in de w
 *Deze thema-avond wordt gegeven door Jasper Roest, zelfstandig Geo-ICT'er bij The Right Place*
 
 ## Praktische informatie
-- Datum: **9 januari 2026**
+- Datum: **16 januari 2026**
 - Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
 - Tijd: 18 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
