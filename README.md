@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **16 januari 2026** *Thema-avond* [Kaarten en geografische informatiesystemen](/GIS/readme.md)
 - **13 februari 2026** *Thema-avond* [Voeding en gezondheid](/Voeding/readme.md)
+- **17 april 2026** *Thema-avond* Elektriciteit *(nadere info volgt)*
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
