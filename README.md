@@ -14,7 +14,6 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **16 januari 2026** *Thema-avond* [Kaarten en geografische informatiesystemen](/GIS/readme.md)
 - **13 februari 2026** *Thema-avond* [Voeding en gezondheid](/Voeding/readme.md)
 - **17 april 2026** *Thema-avond* Elektriciteit *(nadere info volgt)*
 
@@ -41,6 +40,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 26 september 2025 *Thema-avond* [Fotografische technieken](/Fotografie/readme.md)
 - 10 oktober 2025 *Thema-avond* [De bruinviszaak](/Bruinviszaak/readme.md)
 - 14 november 2025 *Thema-avond* [Licht en kleuren](/Licht/readme.md)
+- 16 januari 2026 *Thema-avond* [Kaarten en geografische informatiesystemen](/GIS/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
