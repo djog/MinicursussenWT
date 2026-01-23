@@ -3,7 +3,7 @@
 ![elektriciteit](elektriciteit.jpg)
 
 ## Korte beschrijving van de thema-avond
-Wat hebben bliksem en een stopcontact met elkaar gemeen? Inderdaad: elektriciteit. Maar wat is dat nou eigenlijk? Je kan het niet vastpakken (sterker nog: aanraken kan erg gevaarlijk zijn!), maar toch stroomt het door je apparaten heen. En je voelt het vast wel eens zodra je bij schraal weer een deurkruk vastpakt of een trui uittrekt en ineens een schokje krijgt. Dit wordt statische elektriciteit genoemd. Tijdens deze 'schokkende' thema-avond over elektriciteit leer je meer over dit verschijnsel en gaan we verschillende experimenten doen.
+Wat hebben bliksem en een stopcontact met elkaar gemeen? Inderdaad: elektriciteit. Maar wat is dat nou eigenlijk? Je kan het niet vastpakken (sterker nog: aanraken kan erg gevaarlijk zijn!), maar toch stroomt het door apparaten en zelfs je lichaam heen. En je voelt het vast wel eens zodra je bij schraal weer een deurklink vastpakt of een trui uittrekt en ineens een schokje krijgt. Dit wordt statische elektriciteit genoemd. Tijdens deze 'schokkende' thema-avond over elektriciteit leer je meer over dit verschijnsel en gaan we verschillende experimenten doen.
 
 *Deze thema-avond wordt gegeven door Ynze van der Spek, docent natuurkunde aan het Parcival College*
 
