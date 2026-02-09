@@ -15,6 +15,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
 - **13 februari 2026** *Thema-avond* [Voeding en gezondheid](/Voeding/readme.md)
+- **20 maart 2026** *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md)
 - **17 april 2026** *Thema-avond* [Elektriciteit](/Elektriciteit/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
