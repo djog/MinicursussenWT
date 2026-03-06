@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **20 maart 2026** *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md)
 - **17 april 2026** *Thema-avond* [Elektriciteit](/Elektriciteit/readme.md)
+- **29 mei 2026** *Thema-avond* [De hersenen](/Hersenen/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
