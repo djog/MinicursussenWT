@@ -3,7 +3,7 @@
 ![chemie](chemie.png)
 
 ## Korte beschrijving van de thema-avond
-Onze wereld is opgebouwd uit onvoorstelbaar kleine bouwsteentjes: de elementen. Waar komen die vandaan, hoe vormen ze alle stoffen (moleculen) om ons heen, en wat gebeurt er eigenlijk als die met elkaar reageren? Tijdens deze thema-avond duiken we in de basis van de scheikunde, waarbij we natuurlijk ook aan de slag gaan met allerlei soorten chemische reacties.
+Onze wereld is opgebouwd uit onvoorstelbaar kleine bouwsteentjes: de elementen. Waar komen die vandaan, hoe vormen ze alle stoffen (moleculen) om ons heen, en wat gebeurt er eigenlijk als ze met elkaar reageren? Tijdens deze thema-avond duiken we in de basis van de scheikunde, waarbij we natuurlijk ook aan de slag gaan met allerlei soorten chemische reacties.
 
 ## Praktische informatie
 - Datum: **8 mei 2026**
