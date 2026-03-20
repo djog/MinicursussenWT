@@ -14,7 +14,6 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **20 maart 2026** *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md)
 - **17 april 2026** *Thema-avond* [Elektriciteit](/Elektriciteit/readme.md)
 - **8 mei 2026** *Thema-avond* [Atomen, moleculen en chemische reacties](/AtomenMoleculen/readme.md)
 - **29 mei 2026** *Thema-avond* [De hersenen](/Hersenen/readme.md)
@@ -44,6 +43,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 14 november 2025 *Thema-avond* [Licht en kleuren](/Licht/readme.md)
 - 16 januari 2026 *Thema-avond* [Kaarten en geografische informatiesystemen](/GIS/readme.md)
 - 13 februari 2026 *Thema-avond* [Voeding en gezondheid](/Voeding/readme.md)
+- 20 maart 2026 *Thema-avond* [Hart en bloedsomloop](/Bloedsomloop/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
