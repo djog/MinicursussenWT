@@ -16,6 +16,7 @@ Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden
 
 - **8 mei 2026** *Thema-avond* [Atomen, moleculen en chemische reacties](/AtomenMoleculen/readme.md)
 - **29 mei 2026** *Thema-avond* [De hersenen](/Hersenen/readme.md)
+- **12 juni 2026** *Thema-avond* [Eiwitten](/Eiwitten/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
