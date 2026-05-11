@@ -7,8 +7,8 @@ Alles wat leeft bestaat voor een groot deel uit eiwitten. Dit zijn hele grote (b
 
 ## Praktische informatie
 - Datum: **12 juni 2026**
-- Locatie: Linnaeusborg, Nijenborgh 7, 9747 AG Groningen
-- Tijd: 18 tot 20 uur *(onder voorbehoud)*
+- Locatie: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13
+- Tijd: 18.15 tot 20 uur (pauze: 19 tot 19.15 uur)
 - Minimumleeftijd: 8 jaar
 - Maximumaantal deelnemers: 10
 - Kosten: 2,50 euro per deelnemer
