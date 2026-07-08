@@ -14,6 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
+- **4 september 2026** *Thema-avond* [Warm en koud](/WarmKoud/readme.md)
 - **2 oktober 2026** *Thema-avond* [Zintuigen](/Zintuigen/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
