@@ -14,7 +14,7 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-*(Nieuwe thema-avonden volgen)*
+- **2 oktober 2026** *Thema-avond* [Zintuigen](/Zintuigen/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
