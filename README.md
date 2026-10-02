@@ -14,7 +14,8 @@ Bij De Jonge Onderzoekers Groningen worden met enige regelmaat op de vrijdagavon
 ## Agenda
 Hieronder vind je de (voorlopige) planning van de minicursussen en thema-avonden. Klik op het onderwerp voor meer informatie.
 
-- **2 oktober 2026** *Thema-avond* [Zintuigen](/Zintuigen/readme.md)
+- **13 november 2026** *Thema-avond* [Bacteriën in je eten?](/Fermentatie/readme.md)
+- **11 december 2026** *Thema-avond* [Kraak je hersenen!](/Hersenkrakers/readme.md)
 
 Eerder gegeven minicursussen en thema-avonden:
 - 13 + 20 januari 2023 *Minicursus* [Luchtkwaliteit](/Luchtkwaliteit/README.md)
@@ -46,6 +47,7 @@ Eerder gegeven minicursussen en thema-avonden:
 - 8 mei 2026 *Thema-avond* [Atomen, moleculen en chemische reacties](/AtomenMoleculen/readme.md)
 - 29 mei 2026 *Thema-avond* [De hersenen](/Hersenen/readme.md)
 - 4 september 2026 *Thema-avond* [Warm en koud](/WarmKoud/readme.md)
+- 2 oktober 2026 *Thema-avond* [Zintuigen](/Zintuigen/readme.md)
 
 ## Aanmelden
 Je kunt je aanmelden door een mail te sturen naar info@dejongeonderzoekers.nl. Mocht een cursus of thema-avond vol zitten dan kan je ons per mail laten weten dat je interesse hebt zodat we je op de reservelijst kunnen plaatsen.
